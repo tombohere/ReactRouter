@@ -1,0 +1,12 @@
+{
+  "name": "react-router",
+  "version": "1.0.0",
+  "description": "https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-router-dom": "5.0.0"
+  }
+}
